@@ -74,7 +74,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-23" value="下订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-530" width="80" height="80" as="geometry" />
+          <mxGeometry x="-510" y="-530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O4XIbWpkKNe3394DFrHk-24" value="客户" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-740" y="-520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
