@@ -153,7 +153,7 @@
         <mxCell id="O4XIbWpkKNe3394DFrHk-37" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;客户编号（主键&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 16px; font-family: 宋体; background-color: initial;&quot;&gt;）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-740" y="-410" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O4XIbWpkKNe3394DFrHk-38" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;客户编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O4XIbWpkKNe3394DFrHk-38" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;客户编号（外键）&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="-400" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-39" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;订单编号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
