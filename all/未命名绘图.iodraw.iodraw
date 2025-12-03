@@ -35,7 +35,7 @@
         <mxCell id="O4XIbWpkKNe3394DFrHk-5" value="供应" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-460" y="-320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="O4XIbWpkKNe3394DFrHk-6" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O4XIbWpkKNe3394DFrHk-6" value="被订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-260" y="-190" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
