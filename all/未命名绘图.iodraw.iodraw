@@ -15,6 +15,9 @@
         <mxCell id="O4XIbWpkKNe3394DFrHk-1" value="供应商" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-710" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="O4XIbWpkKNe3394DFrHk-14" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="O4XIbWpkKNe3394DFrHk-2" target="O4XIbWpkKNe3394DFrHk-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-2" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-320" y="-840" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,7 +42,7 @@
           <mxGeometry x="-490" y="-850" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-6" value="被订购" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="-720" width="80" height="80" as="geometry" />
+          <mxGeometry x="-300" y="-720" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
