@@ -73,7 +73,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="O4XIbWpkKNe3394DFrHk-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="O4XIbWpkKNe3394DFrHk-23" value="下订单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-550" y="-530" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
