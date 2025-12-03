@@ -104,13 +104,13 @@
           <mxGeometry x="-300" y="-930" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-33" value="......" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-720" y="-750" width="70" height="60" as="geometry" />
+          <mxGeometry x="-685" y="-750" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-34" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&lt;br/&gt;mso-font-kerning:1.0000pt;&quot;&gt;供应商名称&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-810" y="-850" width="70" height="60" as="geometry" />
+          <mxGeometry x="-790" y="-830" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-35" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:宋体;font-size:12.0000pt;&#xa;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;供应商编号&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-960" width="70" height="60" as="geometry" />
+          <mxGeometry x="-680" y="-930" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="O4XIbWpkKNe3394DFrHk-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="-840" width="70" height="60" as="geometry" />
